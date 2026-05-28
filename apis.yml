@@ -1,0 +1,32 @@
+aid: drivet-url-shortener
+name: Drivet URL Shortener
+description: "Shorten a long URL easily and fast"
+url: https://wiki.drivet.xyz/en/url-shortener/add-links
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "URL Shorteners"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - URL Shorteners
+  - Public APIs
+apis:
+  - name: Drivet URL Shortener
+    description: "Shorten a long URL easily and fast"
+    humanURL: https://wiki.drivet.xyz/en/url-shortener/add-links
+    baseURL: https://wiki.drivet.xyz/en/url-shortener/add-links
+    tags:
+      - URL Shorteners
+    properties:
+      - type: Documentation
+        url: https://wiki.drivet.xyz/en/url-shortener/add-links
+common:
+  - type: Website
+    url: https://wiki.drivet.xyz/en/url-shortener/add-links
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
