@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://wiki.drivet.xyz/en/url-shortener/add-links
 common:
+  - type: VulnerabilityDisclosure
+    url: security/drivet-url-shortener-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/drivet-url-shortener-domain-security.yml
   - type: Website
     url: https://wiki.drivet.xyz/en/url-shortener/add-links
   - type: PublicAPIsListing
